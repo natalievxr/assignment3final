@@ -6,7 +6,7 @@ For the songwriting credits, the data was scraped from https://taylorswift.fando
 
 This repository contains
 - Read me file
-- CSV file with columns containing the track number, track name, lyrics and the writing credits
+- CSV file with columns containing the track number, track name, lyrics and the writing credits. Data here has been cleaned (removed whitespace, extra commas, other random oddities)
 - Jupyter Notebook explaining step by step how I scraped the data, and it answers a simple question posed in the beginning of the notebook
 
 Terms and conditions for web scraping: There was a comment in the page source that said "Usage of azlyrics.com content by any third-party lyrics provider is prohibited by our licensing agreement. Sorry about that." 
